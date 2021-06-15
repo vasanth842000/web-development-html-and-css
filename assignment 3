@@ -1,0 +1,104 @@
+<html>
+<head>
+    
+    <title>Cricket Page</title>
+    <link rel="stylesheet" href="test.css"/>
+    <style>
+        header {
+           border: 3px solid black;
+    height: 68px;
+    margin: 10px 10px 5px 10px;
+    padding-block: initial;
+    font-size: small;
+    font-style: italic;
+    background-color: yellow;
+}
+
+        h1 {
+            text-align:center;
+        }
+
+        #section1 
+		{
+    border: 3px solid black;
+    margin: 10px 10px 5px 10px;
+    height: 400px;
+    width: 330px;
+ 
+    display: inline-block;
+    background-color: gray;
+    font-size: larger;
+    font-style: oblique;
+        }
+
+     #section2 
+	 { 
+	 border: 3px solid black;
+    margin: 10px 10px 5px 10px;
+    height: 400px;
+    width: 945px;
+    display: inline-block;
+	
+    background-color: skyblue;
+    font-size: larger;
+    font-style: oblique;
+}
+        footer {
+            border: 3px solid black;
+    margin: 10px;
+    text-align: center;
+    font-size: larger;
+    font-style: oblique;
+    background-color:violet;
+}
+button
+{
+background-color:orange;
+}
+    </style>
+</head>
+<body>
+    <header>
+        <h1>WORLD TEST CHAMPIONSHIP 2021</h1>
+    </header>
+    <section id="section1">
+       <center> <h3>NEW ZEALAND</h3></center>
+	   <ol>
+	   <li>K Williamson(C)</li>
+	   <li>T Latham</li>
+	   <li>Conway</li>
+	   <li>R Taylor</li>
+	   <li>de grandhome</li>
+	   <li>K Jamieson</li>
+	   <li>Boult</li>
+       <li>santner</li>
+		<li>wagner</li>
+		<li>southee</li>
+		<li>Guptil</li>
+	   </ol>
+	   <center><button>submit</button></center>
+    </section>
+    <section id="section2">
+        <h3><center>INDIA</center></h3>
+		<ol>
+		<li>VIRAT(C)</li>
+		<li>Rohit</li>
+		<li>S Ghill</li>
+		<li>KL Rahul</li>
+		<li>C Pujara</li>
+		<li>R pant</li>
+		<li>A Rahane</li>
+		<li>R Jadeja</li>
+		<li>Jadeja</li>
+		<li>Bumrah</li>
+	    <li>M Shami</li>	
+		</ol>
+		<center><button>submit</button></center>
+    </section>
+    <footer>
+        <h3>	WINNER </h3>
+    </footer>
+</body>
+</html>
+
+
