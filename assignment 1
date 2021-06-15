@@ -1,0 +1,48 @@
+<html>
+<head>
+<title> vasanth </title>
+</head>
+<body>
+<p><i>virat kohli is the G.O.A.T</i></p>
+<h1>captain cool</h1>
+<div>Rohit sharma</div>
+<span>S Ghill</span>
+<hr>
+<br>
+<br>
+<table border="1">
+<tr>
+<th>S.NO</th>
+<th>BATSMAN</th>
+<th>RANK</th>
+</tr>
+<tr>
+<th>1</th>
+<th>virat</th>
+<th>1</th>
+</tr>
+<tr>
+<th>2</th>
+<th>Rohit</th>
+<th>2</th>
+</tr>
+<tr>
+<th>3</th>
+<th>Dhoni</th>
+<th>3</th>
+</tr>
+</table>
+<br>
+<br>
+comments:
+<textarea></textarea>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<button>submit</button>
+<img src="virat.jpg" width="25%">
+</body>
+</html>
