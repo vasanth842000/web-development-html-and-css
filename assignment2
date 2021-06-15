@@ -1,0 +1,73 @@
+<html>
+<head>
+<title>Vasanth</title>
+<style>
+h1{
+text-align:center;
+width:"125px";
+}
+h2{
+text-align:center;
+
+}
+form{
+text-align:center;
+}
+button
+{
+background-color:pink;
+}
+body{
+color:blue;
+}
+</style>
+</head>
+<body>
+<h1><i>Welcome Signup page</i></h1>
+<h2><b><i>create Account</i></b></h2>
+<hr>
+<br>
+<form>
+User:
+<input type="text" placeholder="enter your username" >
+<br>
+<br>
+Pass:
+<input type="password" placeholder="enter your password">
+<br>
+<br>
+Phone:
+<input type="phone" placeholder="enter your phone number">
+<br>
+<br>
+Aadhar No:
+<input type="phone" placeholder="enter your aadhar number">
+<br>
+<br>
+Gender:
+<input type="radio" value="male" name="gender">Male
+<input type="radio" value="Female" name="gender">Female
+<br>
+<br>
+DOB:
+<select>
+<option>Jan</option>
+<option>Feb</option>
+<option>Mar</option>
+<option>Apr</option>
+<option>May</option>
+</select>
+<br>
+<br>
+Address:
+<textarea></textarea>
+<br>
+<br>
+<button>submit</button>
+<br>
+<br>
+<hr>
+<iframe src="https://facebooksignup.com"></iframe>
+</form>
+</body>
+</html>
